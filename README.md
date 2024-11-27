@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 [JeongBright]입니다!
+# 안녕하세요! 👋 [JeongBright]입니다!
 
 ## 🌟 소개
 - 💻 **현재 배우고 있는 것**: Java, MySQL, PostgreSQL, Spring Boot, Kafka, Redis
