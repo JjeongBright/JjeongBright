@@ -19,15 +19,12 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=JeongBright)](https://solved.ac/JeongBright)
-
----
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)<br>
 
----
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=JeongBright)](https://solved.ac/JeongBright)<br>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
 
----
+
